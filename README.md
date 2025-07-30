@@ -1,5 +1,6 @@
 ### Löve2D free online searchable cheatsheet 
-visit: [https://tianmatics.github.io/love2d-cheatsheet]
+Visit: 
+[https://tianmatics.github.io/love2d-cheatsheet]
 
 ---
 
